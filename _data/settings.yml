@@ -1,6 +1,6 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
-description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
+title: North Dallas Real Estate Video Blog with Chris Lee
+description: Our mission at North Dallas Real Estate is to be your best resource for North Dallas real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The North Dallas Real Estate, your professional North Dallas Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -11,82 +11,89 @@ custom_links_new_tab:
     url:
 
 client:
-  name:
+  name: Chris Lee
   title:
   license_number:
   about_markdown: |
+    Chris focuses on select communities of the metropolitan area (namely North Dallas, Plano, Allen, Frisco, Carrollton, Lucas, Fairview, Irving). He’s found that these areas offer safe (but often affordable) housing, great schools, and amazing neighborhoods. Since his top priority has always been providing his clients with their perfect home (or the perfect buyer), his approach is tried-and-true.
 
-  brand:
-  brokerage:
-  market:
-  address:
-  phone:
+    Every home tells a different story. First and foremost, Chris sits down and listens to his selling client’s needs; tours their home, and gives an honest opinion of value.
+
+    Seller marketing begins on consulting the seller on the complete process, staging the home, professional photography, and a complete marketing plan geared to maximize online exposure, as well as marketing to agent offices in the direct vicinity. Chris utilizes a social media company to professionally market his listings on Facebook, Twitter, Instagram, etc. to ensure that the listing can be seen by potential buyers no matter where they are hiding! Chris’ listings can also be seen on every real estate site on the web that markets listings. Chris is always prepared, punctual, and passionate about professionally representing his clients throughout the process.
+  brand: North Dallas Real Estate
+  brokerage: Keller Williams Realty Preston Road
+  market: North Dallas
+  address: 18383 Preston Road, Ste 150<br>Dallas,TX 75252
+  phone: 972-788-0000
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: ChrisLee@kw.com
+  url: https://www.instantdallaslistings.com/
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: https://www.instantdallaslistings.com/home-worth/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: https://www.instantdallaslistings.com/listings-search
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
+    CTA_title: "What’s Your North Dallas Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: https://www.instantdallaslistings.com/home-worth/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
+    CTA_title2: "Looking for a North Dallas Home?"
+    CTA_text2: "Search the entire MLS for your North Dallas home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: https://www.instantdallaslistings.com/listings-search
 
 lender:
-  show_section: false
+  show_section: true
   header_text: Preferred Lender
   headshot_path: /img/lender-headshot.jpg
   logo_path: /img/lender-logo.png
-  name:
-  license_number:
-  company:
+  name: Justin Belle-Isle
+  license_number: NMLS# 48853
+  company: Branch Manager
   company_license_number:
-  phone:
+  phone: 469-277-3181
+  phone_type: Office
+  phone2: 214-244-6827
+  phone2_type: Mobile
   email:
-  url:
+  url: https://firstbankhomeloans.com/home-loan-officers/justin-belle-isle/
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/North-Dallas-Real-Estate-by-Chris-Lee-178261827617/
+  linkedin_url: https://www.linkedin.com/in/chrisleenorthdallas
+  youtube_url: http://www.youtube.com/channel/UCA8UYL7GpdkyF560ZZSVysg
+  twitter_url: https://twitter.com/chrisleere
   instagram_url:
-  pinterest_url:
+  pinterest_url: http://www.pinterest.com/chrislee5674
   zillow_url:
   trulia_url:
   yelp_url:
   podcast_url:
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: 'North Dallas Real Estate Podcast with Chris Lee'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: '-- CLIENT NAME --'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the North Dallas Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from North Dallas Real Estate - your professional North Dallas Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in North Dallas, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  author: 'Chris Lee'
 
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: North Dallas Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
@@ -101,7 +108,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgb(0,0,0)
 
 buttons:
   button_radius_number: 0

@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Everything You Need to Know About Bridge Loans
-date: 2019-06-11 19:45:37
+date: 2019-06-11 19:45:00
 tags:
   - Home Buyer Tips
   - Real Estate
+  - Home Seller Tips
 excerpt: >-
   Bridge loans are beneficial to many types of homebuyers—here’s how they can
   benefit you.

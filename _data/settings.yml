@@ -51,6 +51,9 @@ second_sidebar_CTA:
     CTA_link_text2: "Search the MLS"
     CTA_url2: https://www.instantdallaslistings.com/listings-search
 
+third_sidebar_CTA:
+  <div class='RMA-widget' style='height:0;overflow:hidden;' data-agent='chris-lee-b03xpw'><a href='https://www.ratemyagent.com/real-estate-agent/chris-lee-b03xpw/sales/reviews'><img src='https://static.ratemyagent.com.au/assets/images/widgets/rma-duo-logo.png' width='164' height='40' /><span>Verified Reviews</span></a></div><script type='text/javascript' src='https://www.ratemyagent.com//assets/widgets/js/widget.js' async defer></script>
+
 lender:
   show_section: true
   header_text: Preferred Lender
